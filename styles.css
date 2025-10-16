@@ -1,0 +1,41 @@
+/* styles.css */
+/* Base styles for the Yama-Juunin project */
+
+/* Reset some default browser styles */
+body, h1, h2, h3, p, ul, ol {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Base font and background */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Headings */
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+/* Links */
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Utility classes */
+.hidden {
+    display: none;
+}
+
+.center {
+    text-align: center;
+}
