@@ -14,17 +14,127 @@ Yama Juunin has had a very tubulent history, the mountains have had many civil w
 Using that definition I will break this into groups. 
 
 ### Customs
+- **The three paths**
+  - The three paths are the heart of Yammabushi life: a philisophical trunity that governs all moral, social, and spiritual behavior. Every act, from combat to craftsmanship to meditation, is weighed against one's chosen path and its interpretation.
+- The Sanctity of Writing:
+  - To the Yammabushi, writing is not mere communication, it is manifestation. 
+  - Words, once inscribed, are believed to shape reality itself. Thus to write is to bind the world, and to be written about is to be immortalized. 
+  - Tenets:
+    - Writing is sacred and immutable. Altering text is seen as an act of hubris unless sanctioned by one's path elder. 
+    - Speech is transient, writing eternal. Oral debates and oaths are valued for passion, but word is reserved for truth. 
+    - Written emotion is dangerous but divine. Because written words outlive authors, emotional writings aree seen as echoes of the soul, rare but deeply moving. 
+  - Duels:
+    - When two Yammabushi vassals duel, both must write a *final poem*. A distilled expression of their life's philosophy and acceptance of fate. 
+    - These poems are often read aloud by witnesses before combat and preserved in communal archives. 
+    - Victory is both physical and spiritual: to defeat another's philosophy is to test your own against eternity. 
 
+---
+
+  - Writing privalages by path:
+
+  | Path | Cultural Relationship to Writing | Customary Practices | Spiritual Meaning | 
+  | ---- | -------------------------------- | ------------------- | ----------------- |
+  | Efficiency | Writing is a necessary act, tolerated rather than sacred. | Scribes record blueprints, alchemical formulae, and treatises. Misuse of this privilege may lead to a duel or challenge of skill (Creating a final figurine or invention). | Writing is a tool, precide, functional, and pure in purpose. |
+  | Peace | Writing is restricted, except for dictation or noble lineage. | Members often serve as recorders, scribes for hire, inscribing dictated epitaphs, contracts, or final poems for others. | Writing represents compassion, giving others a voice, but rarely one's own. |
+  | Honor | Writing is ritualistic, emotional,  and performed at moments of life or death | Final poems, oaths of cervice, and battle epistles are crafted with formal precision. | Writing is an offering; the soul's steel forged into words. |
+
+---
+
+  - Dictation and Class Dynamics
+    - Dictation is a privilege of wealth and status. The lower classes often pay a follower of Peace to record their dying words or family histories. 
+    - Dictation ceremonies are deeply emotional. Sometimes seen as the true moment of death, since one's final truth has been *"hammered into permenence."*
+    - This gives followers of the path of peace subtle social power: though they rarely write their own truths, they hold the pen that records others'. 
+  - Philisophical Implications:
+    - Writing symbolizes the dwarves' worldview: **"Nothing is easy, everything must be earned, and all things must be shaped."**
+    - To write is to forge meaning itself. 
+    - Their written records (poems, treatises, or epitaphs) are less about communication and more about leaving behind a perfectly tempered truth. 
+
+    ---
+
+- Death is engraved into the Yammabushi
+  - Isolation and Misunderstanding
+    - The Yammabushi are a people apart. Their mountain citadels and subterranean cities are distant, but it is their philosophy that isolates them the most. 
+    - To Outsiders, the Yammabushi appear calm and disciplined, yet sudden, decisive violence lurks beneath that serenity. A single insult to their Paths, or even an unintentional slight towards their customs, can end in blood. 
+    - Thus the Yama Juunin is known across the lands as the *Realm of Panthers*--Silent, composed, and deadly when provoked.
+    - Outsiders rarely grasp that for the Yammabushi, violence is not rage but correction. 
+    - An insult is not merely offensive; it is a fracture in harmony, and like a crack in metal it myst be struck, reforged, or broken away entirely. 
+  - The Normalcy of Death:
+    - Centuries of war, duels, and "Philosophical purges" have made death a daily presence. 
+    - The Yammabushi no longer treat it as a tragedy but as continuation. 
+    - Every death is a hammer blow in the forgin of their people's destiny. 
+      - Duels occur in open streets, often witnessed by kin or apprentices. The victors bow to the fallen, then to spectators who quietly return to theur business. 
+      - The slain are collected swiftly, often by the Quiet Hand: an order of undertakers belonging to the Path of Peace. 
+      - The scent of Iron and blood is said to cling to every city. Not from neglect, but from history itself. 
+    - Death no longer shocks; it reminds. 
+  - Cleanliness as Virtue
+    - Because blood and death are constant companions, cleanliness became not merely practical but moral. 
+    - A city that reeks of rot is not only unpleasant, it is seen as philisophically impure. 
+    - **Cleanliness Laws:**
+      - Public Hygien: Streets must be washed daily; corpses and waste removed within an hour of discovery. 
+      - Inspections: Local officials from the Path of Efficiency perform routine checks; failure to meet standards results in heavy fines or forced labor. 
+      - Religious Zeal: In rare cases, zealous lords mobilize troops against unclean towns, accusing them of betraying their Path.
+        - Dishonor: For staining the purity of the spirit (Honor)
+        - Disruption: For allowing pestilence to disturb balance (Path of Peace)
+        - Imperfection: For wasting resources or effort (Efficiency)
+      - To neglect cleanliness is to invite chaos.
+      - To the Yammabushi, a spotless street is the sign of a people who respect both life and death. 
+  - The Cultural Psychology of Death
+    > *"Death is not an end, but a lesson. Only the untempered break under its weight." --Yammabushi Proverb*
+    - The Yammabushi view life and death as part of the same forging process:
+      - Birth: Shaping of unrefined ore. 
+      - Life: The hammer's rhythm (choice, pain, purpose)
+      - Death: The cooling of meatal. The moment one's form is set, and their essence judged by the wualuty of their temper. 
+    - Even children learn this metaphor early. They are taught to treat every fallen warrior, craftsman, or philosopher not as lost but complete. 
+  - The Yammabushi are isolated, especially compared to recent history. Outsiders find it dificult to understand the culture, and even at times will inadvertantly insult or demean the philosophy of the Yammabushi around them. Often times outsiders are killed due to this, garnering the Yama Juunin as a land of panthers: calm, quiet, yet deadly and cunning. 
+  - due to the ammount of wars, minor conflicts, and philisophical duels leading to death, the people are rarely phased by death. If a duel happens in the streets, the witnesses (usually friends and familyu) will watch, but people will usually go about their days like it didn't happen. Seeing someone get killed is almost a weekly occurance, the cities and towns all have a disting iron scent of blood in the air. 
+    - Due to this, the people have (by necesity) become very clean. The streets are clean, and a town that doesn't clean their streets, tend to corpses and waste, can invoke heavy fines. In rare cases, when a local lord is particularly zealous to their path, they may mobalize troops against the town and accuse them of anathema to the path. (Letting disease run and disturb the peace, bringing dishoner to themselves, or being inefficient--imperfect.)
+
+  ---
+
+#### Rituals of Death and Burial:
+  - Among the Yammabushi, death is not the extinguishing of life, but the completion of tempering. 
+  - Each path treats death as a reflection of its philosophy, the final test of whether one's discipline held true under pressure. 
+  - Burial rites are less about mourning and more about honoring the form one achived in life. 
+
+- **Path of Honor:**
+    > *"To die as you lived. Unbroken. Unbent. Is to live forever." --Final Oath of the First Shogun*
+    - Those who follow the Path of Honor view death as the final proof of integrity. Their ceremonies are steeped in ritual precision, and even in death, they are expected to uphold composure. 
+    - Rituals:
+      - Final Oath: Before death (whether by duel, battle, or sickness) a follower of Honor declares a Final Oath. Often a single sentence carved into a stone tablet or engraved upon their weapon. 
+      - Cleansing of the Blade: Their weapon or armor is washed with their own blood, symbolizing the purification of both oath and self. 
+      - Entombment: The dead are sealed in stone crypts with their oath tablets. The two are never separated.
+      - Witnesses: Family and comrades stand silently, never weeping. To weep would imply the deceased failed to prepare for death. 
+    - Cultural Notes: 
+      - Their tombs are often inscribed only with symbols rather than names. A statement that the oath, not the self, is what endures. 
+      - Breaking the peace of a warrior's tomb is a capital crime; their oaths are still believed to bind even in death. 
+
+- **Path of Efficiency:**
+  > *"Perfection wastes nothing, not even the body." -- Exerpt from a Ledger of Merit. author's name unknown*
+  - To those on the Path of Efficiency, death is a resource, to be transformed, studied, put to purpose. 
+  - They view the corpse as another form of matter, subject to refinement. 
+  - Rituals:
+    - The Reduction: Bodies are cremated in carefully controlled alchemical furnaces. The ashes are mixed with lime and oil to create a fine resin used to seal tools, walls, or machines. 
+    - The Ledger of Merit: Before cremation, a bureaucrat or scholor records the deceased's lifetime achivements, innovations, or failures. This ledger determines where their ashes will be used. 
+    - No Monuments: Efficiency demands anonymity. Monuments are considered vanity unless they serve a function. 
+  - Cultural Notes: 
+    - Some great machines or city walls are said to hold the essence of thousands. literal blood and bone made useful.
+    - The path teaches that the closer one comes to perfect refinement in life, the fewer ashes remain after death. Some take this to an extreme, becoming aescetics.
+
+- **Path of Peace**
+  > *"As the mountain endures, so too must we learn to still ourselves." --Exerpt of <u>The Meditations</u>*
 ### Arts
 
 ### Social Institutions
-
+- List of the institutions so far.
+  - Most of the institutions are defined by the Paths. 
+  - Quiet Hand
+  - The smaller towns are similar to manorialism, so most judicial matters come from members of the estate.
+  - 
 ### Achievements
 
-## People:
-
-## Divinities:
-Rather than a pantheon of gods, the Yammabushi have been battered and bloodstained by centuries of conflict and war. Once the old empire took control, the dwarves were directed into *The Three Paths*. These paths are not just a frivolus religion that some dwarves follow and others don't. It's their way of life, these philosophies are worth dying for in their eyes and many do. Magistrates swear to serve a lord by publicly swearing to follow one of the paths. If they break the path they are killed, outcast, imprissoned, or ostricized from a community.
+## The Three Paths:
+![Banners-Of-The-Three](./Images/Three-Paths-Banners_2.png)
+> Once the old empire took control, the dwarves stalled their battleing and allowed their philosophy to evolve. Turning from a people who ask why and fight, and shift into people who ask why they fight. *The Three Paths*. These paths are not just a frivolus religion that some dwarves follow and others don't. It's their way of life, these philosophies are worth dying for in their eyes and many do. Magistrates swear to serve a lord by publicly swearing to follow one of the paths. If they break the path they are killed, outcast, imprissoned, or ostricized from a community.
 - **The Three Paths**
   - Path of Honor
   - Path of Efficiency
@@ -35,6 +145,11 @@ Through these paths the social order is built and maintained.
 ---
 
 ### Path of Honor:
+![Path-of-Honor-Dwarf](./Images/Yamma-Juunin-Dwarf.png) 
+> *“In the age when Kaigen’s banners cast long shadows over the valley, there were those who swore their lives to the Path of Service. Among them stood the Oathbearers — warriors who carved their vows into steel and soul alike. Their armor was not fashioned for glory but for endurance; their banners, not for pride but remembrance.*
+> *It is said that an Oathbearer’s armor was never removed in life, nor buried in death — for their oath transcended both. Each strike they endured was a prayer to endurance, each victory a hymn to duty. When one such warrior fell, his banner was folded and sealed with molten wax, its flame extinguished until another rose to bear the same creed." -Imperial Archive VII* 
+
+To the Yammabushi, honor is not spoken — it is carried.”
 - **Ideal:** Honor above all else
 - **Typical Social Roles:** Warriors, Judges, Magistrates 
 - **Cultural Flavor:** Oaths are forged into weapons, armor, or are engraved in a small stone tablet that the bearer takes with them everywhere. 
@@ -126,7 +241,9 @@ Ultimately, this is a feudal society. There are defined class systems, roles, an
 - Annual events, rituals, etiquette.
 
 ## References, Credits & Sources
-- Character Art:
-  - Yamma-Juunin-Dwarf.png is the intellectual property of HeroForge®. 
+- Hero Forge:
+  - Yamma-Juunin-Dwarf.png 
+  - Three-Paths-Banners.png
+  - Three-Paths-Banners-2.png  
 - Maps:
   - Yamma-Juunin-Blank.png is the intelectual property of Benjamin Jensen.
