@@ -122,6 +122,31 @@ Using that definition I will break this into groups.
 
 - **Path of Peace**
   > *"As the mountain endures, so too must we learn to still ourselves." --Exerpt of <u>The Meditations</u>*
+  - Followers of the Path of Peace view death as reunion. 
+  - They believe that each soul returns to the silent heart of the mountain, wqere all conflict ceases. 
+  - Rituals:
+    - Silent Passage: The dead are carried deep into the volcanic caverns, wrrapped in white silk, and left upon stone ledges where heat and time turn them to dust. 
+    - Medidtative chant: Monks chant a single tone, held as long as possible, to symbolize the merging of one breath into the eternal stillness. 
+    - The Empty Marker: Families place an unmarked stone where the person once lived, representing absence; the highest form of peace. 
+  - Cultural Notes:
+    - Unlike the others, followers of Peace hold *Collective Rememberances*, long silent vigils where hundreds meditate together. 
+    - Those who die violently are considered untempered; monks will sometimies seek to atone for their unrest through fasting or isolation. 
+
+- **Heresy of the Unspoken**
+  > *"No Path binds the dead" --Final words of an unspoken, moments before execution. Their name was stricken from memory*
+  - Those of the Unspoken Path reject all ritual. 
+  - Their followers are buried in secret or left unclaimed, both to hide their existence and to deny them any posthumous honor. 
+  - Yet, whispers say their spirits wander unanchored, unpurified, still seeking a truth beyond all tempering. 
+
+- **Summary Table:**
+
+| Path           | View of Death        | Core Ritual                 | Symbolic Goal                  | Psychological Effect                |
+| -------------- | -------------------- | --------------------------- | ------------------------------ | ----------------------------------- |
+| **Honor**      | Test of integrity    | Final Oath & Entombment     | Purity of principle            | Stoic pride; death as fulfillment   |
+| **Efficiency** | Refinement of matter | Cremation & Ledger of Merit | Transformation into usefulness | Detachment; purpose in productivity |
+| **Peace**      | Return to stillness  | Silent Passage              | Dissolution into harmony       | Serenity; death as release          |
+| **Unspoken**   | Rejection of order   | None / secrecy              | Denial of societal control     | Defiance; existential rebellion     |
+
 ### Arts
 
 ### Social Institutions
