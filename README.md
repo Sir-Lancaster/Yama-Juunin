@@ -234,17 +234,54 @@ Authoritarianism also tends to embrace the informal and unregulated exercise of 
 Thinking about this made me realize that in order for my society to be able to work with the political structure I had begun, I needed to define how the Yammabushi leader is legitamized. 
 
 #### The Tree Structure
-**The Core: Legitimazy through Mastery**
+**The Core: Legitimazy through Mastery--The Trunk of the Tree**
 The current leader, Inoru Kaigen, has his authority rooted in the mastery of *the Three Paths:* Honor, Peace, and Efficiency. 
 He demonstrated through bloody conquest and unwavering discipline, that balance between the three leads to triumph. His victories were not only military, but philisophical validations of the Yammabushi worldview:
 > "He who harmonizes blade, heart, and mind forges peace from chaos." 
+Thus, Kaigen's rule is not ordained by god or crown, but by the undeniable proof of his own harmony with the three paths. He *embodied* the ideal of the perfected Yammabushi. 
+
+**Honor's Branch: The Burden of the Fallen**
+To the followers of the Path of Honor, Kaigen's right to rule is a matter of *duty*.
+- The Blood Debt of Victory: Every warrior slain in his conquest entrusted him with the meaning of their death. Their sacrifice demands that he fulfill its purpose: to forge a better world.
+- The Crown of Burden: To abdicate leadership would dishonor; it would render their deaths meaningless. 
+- Ritual implication: Followers of this path may vire Kaigen as the "Bearer of Burdens," performing rights in his name that honor those who died for his cause. 
+> "In victory, he inherited their ghosts. In leading, he gives them peace." --A Yammabushi's response to the question of an outsider
+
+**Peace's Branch: Relieve the Suffering**
+To the followers of the Path of Peace, Kaigen's legitimacy is *pragmatic compassion*.
+- Peace Through War: His conquest was not wanton. It was a means to end the chaos of endless bloodshed. War, weilded with restraint, was his tool for a lasting peace. 
+- Compassionate Chairns: Kaigen's governance is strict, but to his followers, discipline is kindness. Law and order are the expression of his compassion, protecting the people from their own worst impulses. 
+  - Example Policies:
+    - Curfews are an act of mercy, to protect rather than punish. 
+    - Cleanliness laws are sacred; a clean nation is a peaceful one.
+    - Every restriction has a moral rationale: "Order is mercy manifested."
+- Philosophical Principle: Freedom is a source of suffering; structure is liberation.
+> "He bound us so we would not strangle ourselves."
+
+**Efficiency's Branch: The Engine of Order**
+To the followers of the Path of Efficiency, Kaigen's authority lies in his *precision and refinement*.
+- Perfection, Not Creation: He does not build anew; he perfects. His rule is the logical conclusion of the philosophy that the Yammabushi do not create but refine. 
+- Adaptive Governance: Each law, each system, each process is an evolving mechanism, and Kaigen is its artisan. 
+  - Example: The reinterpritation of the cleanliness laws to enforce rest, efficiency, and order among workers, leading to tavern curfews and street patrols. 
+  - Such decrees are seen as "harmonic adjustments," not opression. 
+- Legitimacy by Function: His authority persists becayse the machine of society functions. The people eat, the cities hum, the borders hold. If the system runs, he is justified.
+> "A perfect machine does not question its craftsman." --Epitaph of a folower of the Path of Efficiency
+
+**The Unifying Philosophy--The Canopy of the Tree**
+Kaigen's authority is not a contradiction between the three paths, it is a synthesis of them. 
+- His *Honor* ensures his actions are justified.
+- His *Peace* ensures his intentions are compassionate.
+- His *Efficiency* ensures his methods are effective. 
+
+Each path sees a reflection of its own ideal in him, and so all defer to his rule without fracture. Though the balance grows ever more precarious as age and legacy loom.
+> "The Trunk stands so long as all Branches feed it. Should one wither, the tree will fall." --Inaru Kaigen's speach before his conquest of the capital
 
 ### Governing system
 Ultimately, this is a feudal society. There are defined class systems, roles, and expectations with them. i.e. in britain, a lord of a manor was expected to provide protection to the free tennants and villanes that were under him, he was also expected to play the roll of judge in local disputes. The tennants are expected to work some of the Lords land in return. 
 
 ---
 
-The above was my original idea for Yamma Juunin. However, after creating the philosophy of the Yammabushi and how it weaves into the lives of every dwarf, neither authoritarian nor feudal seem to accurately describe the Yammabushi. Since this is new to me, I asked chatGPT 5 which one it was closer to, and if it wasn't a good fit for either then to give me the word that describes it best. I like its answer and do intend to use it. In its opinion the Yammabushin are neither feudal nor authoritarian, but are an **Orderist State** (coined by chatGPT). Below is a cohesive breakdown of this conclusion.
+The above was my original idea for Yamma Juunin. However, after creating the philosophy of the Yammabushi and how it weaves into the lives of every dwarf, neither authoritarian nor feudal seem to accurately describe the Yammabushi. Since this is new to me, I asked chatGPT 5 which one it was closer to, and if it wasn't a good fit for either then to give me the word that describes it best. I like its answer and do intend to use it. In its opinion the Yammabushin are neither feudal nor authoritarian, but are a **Philisophical Orderist State** (coined by chatGPT). Below is a cohesive breakdown of this conclusion.
 
 #### Authoritarian vs. Feudal: Quick Breakdown
 | Structure         | Power Source                                    | Social Order                                 | Economic Base                | Ideological Justification                   |
