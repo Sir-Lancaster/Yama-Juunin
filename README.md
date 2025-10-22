@@ -234,7 +234,7 @@ Authoritarianism also tends to embrace the informal and unregulated exercise of 
 Thinking about this made me realize that in order for my society to be able to work with the political structure I had begun, I needed to define how the Yammabushi leader is legitamized. 
 
 #### The Tree Structure
-**The Core: Legitimazy through Mastery--The Trunk of the Tree**
+**The Core: Legitimacy through Mastery--The Trunk of the Tree**
 The current leader, Inoru Kaigen, has his authority rooted in the mastery of *the Three Paths:* Honor, Peace, and Efficiency. 
 He demonstrated through bloody conquest and unwavering discipline, that balance between the three leads to triumph. His victories were not only military, but philisophical validations of the Yammabushi worldview:
 > "He who harmonizes blade, heart, and mind forges peace from chaos." 
@@ -293,13 +293,15 @@ The above was my original idea for Yamma Juunin. However, after creating the phi
 
 #### Where the Yammabushi Fit
 The Yammabushi borrows aspects of both, but doesn't align perfectly with either.
-**Not Fully Feudal:**
-- Kaigen's authority isn't derived from land owenership or divine right, it's *philosophical.*
-- His subordinates aren't "lords" of land; they're more like *stewards* or *functionaries* of order, appointed for competence rather than bloodline.
-**Not Fully Authoritarian:**
-- It's not pure tyranny. Kaigen's rule is *justified by philosophy*, not fear. 
-- There's an emphasis on *moral and philisophical* order, not merely obedience to Kaigen as a man. 
-- His sustem self-perpetuates throug *cultural buy-in*, people believe in the necessity of his rule because it reflects their worldview.
+- **Not Fully Feudal:**
+  - Kaigen's authority isn't derived from land owenership or divine right, it's *philosophical.*
+  - His subordinates aren't "lords" of land; they're more like *stewards* or *functionaries* of order, appointed for competence rather than bloodline.
+
+
+- **Not Fully Authoritarian:**
+  - It's not pure tyranny. Kaigen's rule is *justified by philosophy*, not fear. 
+  - There's an emphasis on *moral and philisophical* order, not merely obedience to Kaigen as a man. 
+  - His system self-perpetuates throug *cultural buy-in*, people believe in the necessity of his rule because it reflects their worldview.
 
 #### The Closest Fit: a *Phylisophical Technocracy*
 > **Phylisophical Technocracy:** a society ruled by those who have mastered its central phylosophy and demonstrated superior efficiency, wisdom, or discipline in applying it.
