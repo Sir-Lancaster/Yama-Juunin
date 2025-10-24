@@ -97,7 +97,7 @@ Using that definition I will break this into groups.
   - Burial rites are less about mourning and more about honoring the form one achived in life. 
 
 - **Path of Honor:**
-    > *"To die as you lived. Unbroken. Unbent. Is to live forever." --Final Oath of the First Shogun*
+    > *"To die as you lived. Unbroken. Unbent. Is to live forever." --Final Oath of the First Warrior King*
     - Those who follow the Path of Honor view death as the final proof of integrity. Their ceremonies are steeped in ritual precision, and even in death, they are expected to uphold composure. 
     - Rituals:
       - Final Oath: Before death (whether by duel, battle, or sickness) a follower of Honor declares a Final Oath. Often a single sentence carved into a stone tablet or engraved upon their weapon. 
@@ -337,20 +337,8 @@ An **Orderist State**, a hierarchical society where legitimacy is earned through
 ## Notable Locations & Districts
 - Cities, temples, landmarks, inns.
 
-## Factions, Guilds & Organizations
-- Power groups, merchants, religious orders.
-
 ## Flora, Fauna & Bestiary
 - Local wildlife, dangerous creatures, plants.
-
-## Magic, Technology & Crafts
-- Magical traditions, tech level, notable inventions.
-
-## Languages & Naming Conventions
-- Local tongues, common names, honorifics.
-
-## Timeline & Major Events
-- Key historical dates and recent happenings.
 
 ## Festivals, Holidays & Customs
 - Annual events, rituals, etiquette.
