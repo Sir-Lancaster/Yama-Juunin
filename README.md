@@ -331,8 +331,9 @@ An **Orderist State**, a hierarchical society where legitimacy is earned through
 ## Law & Justice
 - Courts, punishments, common legal disputes.
 
-## Demographics
-- Population, ethnic groups, social classes.
+## Social Classes
+The paths show the occupation of the people who live them, but how does that transfer to social classes? In a technocracy, people are chosen based on merit, so what defines merit. As stated previously, one only needs to publicly swear an oath to one of the three paths when they are appointed to an official capacity, so while the average everyday person 'generaly' falls under the path of efficiency and is treated that way, they aren't held to it firmly. However, this begs the question of: How do you climb the social ladder and what is said ladder? 
+
 
 ## Notable Locations & Districts
 - Cities, temples, landmarks, inns.
