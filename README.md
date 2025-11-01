@@ -422,9 +422,64 @@ This creates a society where:
 ## Law & Justice
 - Courts, punishments, common legal disputes.
 
-## Social Classes
-The paths show the occupation of the people who live them, but how does that transfer to social classes? In a technocracy, people are chosen based on merit, so what defines merit. As stated previously, one only needs to publicly swear an oath to one of the three paths when they are appointed to an official capacity, so while the average everyday person 'generaly' falls under the path of efficiency and is treated that way, they aren't held to it firmly. However, this begs the question of: How do you climb the social ladder and what is said ladder? 
+## Social Hierarchy
+1. Sovereign Layer
+- Inoru Kaigen — Supreme Trunk (ceremonial + final arbiter).
+- Triumvirate (3 Masters of the Three Crucibles) — direct executive/ideological council.
+- National Institutions
 
+2. National Institutions
+- Grand Artisan (head of Quenching the Iron).
+- High Triumvirate Offices: Heads of Genbukan (Honor), Mokujinsha (Efficiency), Shizumidō (Peace).
+- Regional Governance
+
+3. Regional Governance
+- Regional High Artisans / Prefects (run Seiryōsha — combine admin, engineering, law).
+- Foundry Councils (local implementation of Efficiency standards).
+- Inspectors & Adjudicators
+
+4. Inspectors & Adjudicators
+- Forged Inspectors (Junkan) — merit evaluators, promotion/execution authority.
+- Hall Judges / Oathkeepers (Honor) — legal ritual enforcement.
+- Peace Envoys / Mediators (Shizumidō) — dispute resolution.
+- Skilled Elite (technocrats, masters, clergy)
+
+5. Skilled Elite
+- Senior Artisans, Lead Engineers, Chief Scribes, Senior Monks, Senior Soldiers (commanders tied to a Path).
+- Untempered Scholars (certified graduates allowed to govern locally).
+- Craftspeople & Bureaucracy
+
+6. Craftsman $ Bureaucracy
+- Journeymen artisans, clerks, scribes, junior monks, junior engineers, militia sergeants.
+- Commoners & Labour
+
+7. Commoners & Labourers
+- Laborers, farmers, merchants, tavernfolk (default social layer; often “Efficiency” cultural treatment).
+- Rights: basic civic protections, subject to Path-specific enforcement (cleanliness, curfew).
+- Marginalized / Policed
+
+8. Marginalized/Outcasted
+- The Unspoken (underground, outlawed) — hunted/erased socially.
+- Outcasts: those stripped of oaths; loss of writing/dictation privileges, economic restrictions.
+
+### Path-specific offices and privileges
+
+- Honor: Oathbearers, Hall Magistrates, Ritual Poets. Privilege = public voice in ceremonies, custodianship of oaths, tomb rights.
+- Efficiency: Foundry Masters, Ledger-Bureau Chiefs, Inspectors. Privilege = technical authority, building permits, enforcement of cleanliness/regulations.
+- Peace: Silent Masters, Quiet Hand (undertakers), Mediators. Privilege = control of funerary rites, dictation rights, diplomatic roles.
+- Mechanisms of enforcement & mobility (keeps the system coherent)
+
+- Quenching Exams: formalized tests at Quenching the Iron; passing = entry to Untempered Scholars / higher office.
+- Meisaku Recognition: Forged Inspectors identify and fast-track talent; public decree promotes people.
+- Ledger of Merit: persistent bureaucratic record that decides distribution of honor, posthumous uses (Efficiency), and eligibility for office.
+- Oath / Ritual: public oath binds an official; breaking can mean ritual execution, exile, or loss of status.
+- Institutional checks: Triumvirate + Grand Artisan act as checks — inspectors report upward; public rituals legitimize changes.
+Concrete role examples you can drop into the world
+
+National: Grand Artisan, Master-Quencher, Triumvirate Consul.
+Regional: Seiryōsha Prefect, Foundry Warden, Circuit Inspector.
+Local: Oathscribe, Forge-Leader, Monastic Warden, Market Steward.
+Mobility roles: Apprentice → Journeyman → Master (path exams); Meisaku-honored candidate → Inspector’s Protégé → Prefect.
 
 ## Notable Locations & Districts
 - Cities, temples, landmarks, inns.
