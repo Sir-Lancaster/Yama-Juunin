@@ -420,7 +420,18 @@ This creates a society where:
 - Armed forces, fortifications, militia, threats.
 
 ## Law & Justice
-- Courts, punishments, common legal disputes.
+I'm not going to go into a very deep exploration on what the laws are, I might revisit this after the webpage is built and just add onto it. I will cover some basic laws, but mostly I plan to cover the legal systems that are there. Courts, judges, common punishments. 
+
+### Common Laws
+> "Under the authority of Inaru Kaigen, the exemplar of the paths, the following laws are put into place to preserve and maintain the efficiency of Yamma Juunin." --Imperial Order 538
+- The order of Yamma Juunin is paramount, to maliciously disrupt this order is punishable by death, or fines. There are no civilian prisons, the Yammabushi are rigid and unforgiving (There are holding cells to keep someone until execution, but nothing long term). The definition of 'disrupt' is determined by the local official of the city/prefecture. Such disruptions usually include:
+  - The intentionall and wilfull murder of annother for the accruation of material goods, wealth, or fame. This does not include duels against annother incured by the natural refinement of the definitions of the three paths philosophy. 
+  - The intentional stealing of annothers intelectual property (food, money, livestock, inventions, weapons, etc) is entirely prohibited. Those found guilty of such a crime shall return the item if possible, and pay a minium of half the worth of the stolen item. 
+  - Part of the order of Yammabushi culture is the efficacy of its people. As such there is a curfew in effect two hours after sundown. Taverns, factories, bakeries, alchemies, and all other businesses must begin closing an appropriate ammount of time before the cerfew goes into effect. Any individuals found loitering, or wandering the streets of any city after cerfew, without the express permission of the local authority, will incrue a fine within reason of their ability to pay. 
+  - The refinement of the Three Paths is a charge all Yammabushi must abide, and thusly any corpses incured by this refinement must be reported to the officials of the Path of Peace within an hour of its discovery. Similarly, the body must be disposed of, and the scene cleaned within an hour of the report. 
+
+### Courts & Judges
+
 
 ## Social Hierarchy
 1. Sovereign Layer
