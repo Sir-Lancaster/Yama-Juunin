@@ -431,6 +431,9 @@ I'm not going to go into a very deep exploration on what the laws are, I might r
   - The refinement of the Three Paths is a charge all Yammabushi must abide, and thusly any corpses incured by this refinement must be reported to the officials of the Path of Peace within an hour of its discovery. Similarly, the body must be disposed of, and the scene cleaned within an hour of the report. 
 
 ### Courts & Judges
+This is where I am drawing the most from European manorialism. In manorialism, the people under the Lord of the mannor (serfs, free tennants, villains) depended on the Lord to provide and facilitate the rule of law. Someone stole from the miller? Take it to the Manor. Periodically, a manor lord would hold court sessions and resolve disputes. This is where a major part of our knowledge of the time came from because the records that were created during the court session were some of the only things written down for many years. 
+Similarly, the Yammabushi handle their disputes in the same way. Records are created by the administrators of the local governing body, and the local authority will on a monthly basis, facilitate a court hearing for the disputes, take council from his board of people from the path of efficiency, and render judgement. 
+As the cities grow and more disputes arrise than one 'judge' can handle, the local authority can at their discresion appoint trusted individuals to assist in the procedence of the law. 
 
 
 ## Social Hierarchy
